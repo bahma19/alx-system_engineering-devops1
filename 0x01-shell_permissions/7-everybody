@@ -1,2 +1,2 @@
-#!/bin/badh
-chmod 007 hello
+#!/bin/bash
+#chmod ugc+x hello
